@@ -4,6 +4,12 @@ A collection of useful resources for learning and using bioinformatics, with an 
 ## Index
 
 [General computing](#general-computing)
+[Bioinformatics](#bioinformatics)
+[Linux](#linux)
+[Nextflow](#nextflow)
+[R](#r)
+[Python](#python)
+[Tools](#tools)
 
 ## General computing:
 |Resource| Description| Link|
@@ -17,7 +23,13 @@ A collection of useful resources for learning and using bioinformatics, with an 
 
 ## Nextflow
 
+|Resource| Description| Link|
+|--------|------------|-----|
+|Andre Telatin's Nextflow Tutorial| Excellent tutorial in building up a nextflow pipeline from scratch - specifically focussed on a microbiology pipeline | https://github.com/telatin/nextflow-example|
+
 ## R
 
 ## Python
+
+## Tools
 
