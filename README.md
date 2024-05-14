@@ -31,5 +31,10 @@ A collection of useful resources for learning and using bioinformatics, with an 
 
 ## Python
 
+|Resource| Description| Link| Type |
+|--------|------------|-----|------|
+|Think Python 3rd edition| Excellent online version of Python basics book | https://allendowney.github.io/ThinkPython/index.html#| Book|
+| Python for Data Science | Excellent online version of Python for data science book | https://www.tomasbeuzen.com/python-programming-for-data-science/README.html| Book |
+
 ## Tools
 
