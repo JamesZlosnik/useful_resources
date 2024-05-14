@@ -3,13 +3,13 @@ A collection of useful resources for learning and using bioinformatics, with an 
 
 ## Index
 
-[General computing](#general-computing)
-[Bioinformatics](#bioinformatics)
-[Linux](#linux)
-[Nextflow](#nextflow)
-[R](#r)
-[Python](#python)
-[Tools](#tools)
+- [General computing](#general-computing)
+- [Bioinformatics](#bioinformatics)
+- [Linux](#linux)
+- [Nextflow](#nextflow)
+- [R](#r)
+- [Python](#python)
+- [Tools](#tools)
 
 ## General computing:
 |Resource| Description| Link|
