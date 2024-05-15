@@ -29,6 +29,11 @@ A collection of useful resources for learning and using bioinformatics, with an 
 
 ## R
 
+|Resource| Description| Link| Type |
+|--------|------------|-----|------|
+|Riffomonas| Extensive collection of video tutorials on programming with R. For me this is an outstanding resource. Devlivered by Pat Schloss from the University of Michigan it will introduce you to lots of concepts necessary for bioinformatics with a focus on reproducible research, centered on R but including other essentials such as Git. For me, I far prefer this problem based approach to learning. | https://www.youtube.com/@Riffomonas| Video tutorials |
+| The Epidemiologists R Handbook | Also an outstanding resource that focuses on using R in epidemiology | https://epirhandbook.com/en/| Book|
+
 ## Python
 
 |Resource| Description| Link| Type |
